@@ -31,7 +31,7 @@ $$\Large
 a^{3} + b^{3} = (a+b)(a^{2} - ab + b^{2})
 $$
 $$\Large
-a^{3} - b^{3} = (a-b)(a^{2} - ab + b^{2})
+a^{3} - b^{3} = (a-b)(a^{2} + ab + b^{2})
 $$
 
 ## 2.Nhận diện các biểu thức có thể chuẩn hóa
@@ -49,3 +49,9 @@ Bài 1 : $$\large x^{2} - 4x + 4$$
 Bài 2 : $$\large16x^{2} - 9$$
 
 ở đây ta lấy cái gì với bình phương để ra 16x? là $$\large(4x)^{2}$$ còn lấy cái gì với bình phương để ra 9? đó là $$\large3^{2}$$ như vậy ta có $$\large(4x)^{2} - 3^{2}$$
+
+Bài 3 : $$\large x^{3} - 1 + x^{2} + x + 1$$
+
+Ở đây ta thấy, $$\large x^{3} - 1$$ đó là hằng đẳng thức hiệu của hai lập phương số 7,bây giờ ta thế vào $$\large x^{3} - 1 = (x-1)(x^{2} + x + 1)$$ rồi ta hạ nhóm kia xuống thành $$\large (x-1)(x^{2} + x + 1) + x^{2} + x + 1$$ bây giờ ta có hai phần tử trùng khớp nhau là $$\large x^{2} + x + 1$$ bây giờ thực hiện phương pháp số 1 là đặt nhân tử chung thành $$\large(x^{2} + x + 1)(x-1+1)$$ rút gọn lại thành $$\large(x^{2} + x + 1)x$$
+
+**Vì sao lại cộng  khi rút x ra ngoài thì nó lại cộng thêm 1?:**
