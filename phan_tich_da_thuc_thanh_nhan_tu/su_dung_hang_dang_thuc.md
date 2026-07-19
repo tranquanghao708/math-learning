@@ -49,7 +49,3 @@ Bài 1 : $$\large x^{2} - 4x + 4$$
 Bài 2 : $$\large16x^{2} - 9$$
 
 ở đây ta lấy cái gì với bình phương để ra 16x? là $$\large(4x)^{2}$$ còn lấy cái gì với bình phương để ra 9? đó là $$\large3^{2}$$ như vậy ta có $$\large(4x)^{2} - 3^{2}$$
-
-Bài 3 : $$\large x^{3} - 1 + x^{2} + x + 1$$
-
-ở đây ta thấy $$\large x^{3} = x^{3} + x^{2} + x$$ bây giờ, ta ghép lại với `-1` như sau $$\largex^{3}-1+x^{2}+x^{1}$$ ta thấy có số trùng khớp nhiều nhất là `x` bây giờ ta dùng đặt nhân tử chung tính chất phân phối như sau $$\large(x-1)(x^{2} + x + 1)$$ và ở đề bài nhóm sau còn có $$\large x^{2} + x + 1$$ ở nhóm này ta ghép trực tiếp vô luôn như sau $$\large(x-1)(x^{2} + x + 1) + x^{2} + x + 1$$ ta thấy nó còn có thể rút nhân tử chung tiếp nữa ở đây là $$\large x^{2} + x + 1$$ là số trùng bây giờ ta tiến hành rút $$\large (x^{2} + x + 1)(x-1+1)$$
