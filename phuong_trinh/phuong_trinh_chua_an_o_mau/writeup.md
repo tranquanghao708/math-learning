@@ -58,4 +58,4 @@ ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3
 
 **Bài 3 :** $$\large\frac{x+2}{x-2}-\frac{x-2}{x+2}=\frac{16}{x^{2}-4}$$
 
-- Ta có điều kiện xác định x $$\large\neq\pm2$$ bây giờ tiến hành quy đồng $$\large\frac{(x+2)^{2}}{(x-2)(x+2)}-\frac{(x-2)^{2}}{(x-2)(x+2)} = \frac{16}{(x-2)(x+2)}$$ bây giờ tính tử ta dùng hằng đẳng thức $$\large$$
+- Ta có điều kiện xác định x $$\large\neq\pm2$$ bây giờ tiến hành quy đồng $$\large\frac{(x+2)^{2}}{(x-2)(x+2)}-\frac{(x-2)^{2}}{(x-2)(x+2)} = \frac{16}{(x-2)(x+2)}$$ bây giờ tính tử ta dùng hằng đẳng thức $$\large (x^{2} + 4x + 4) - (x^{2} - 4x + 4) = 16$$ bây giờ rút gọn còn 8 vì $$\large x^{2}$$ bỏ do trừ luôn là 0, `-4x + 4 = 0` bỏ luôn, còn `4x + 4 = 8x` bây giờ ta có kết quả là 16, muốn tìm x thì bây giờ nó thuộc loại cơ bản từ 8x và 16 ta có phương trình đơn giản như sau `8.x = 16` rôi lấy `16 : 8 = 2` nghiệm là 2 vậy phương trình vô nghiệm do vi phạm quy tắc của điều kiện xác định
