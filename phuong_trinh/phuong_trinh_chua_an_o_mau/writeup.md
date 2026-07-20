@@ -40,4 +40,6 @@ Bây giờ ta phải tìm điều kiện xác định là x $$\large\neq$$ 3 và
 
 ví dụ 1: $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
 
-ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3. Bây giờ ta thấy, phương trình này ko cùng mẫu số với nhau, ta thực hiện quy đồng bằng cách nhân cả tử lẫn mẫu ta được $$\large\frac{(x+3)(x-3)}{(x-2)(x-3)}+\frac{(x+2)(x-2)}{(x-2)(x-3)} = \frac{2(x-2)(x-3)}{(x-2)(x-3)}$$ lưu ý giá trị `2` nếu đứng một mình ko theo phân số như trên biểu thức nên nhân với mẫu và chia với mẫu. Bây giờ dựa trên biểu thức ta vừa quy đồng ta thực hiện đa nhân đa ở tử và lúc này khử mẫu đi, ta được $$\large(x^{2} - 9) + (x^{2} - 4) = (2x - 4)(x-3)$$
+ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3. Bây giờ ta thấy, phương trình này ko cùng mẫu số với nhau, ta thực hiện quy đồng bằng cách nhân cả tử lẫn mẫu ta được $$\large\frac{(x+3)(x-3)}{(x-2)(x-3)}+\frac{(x+2)(x-2)}{(x-2)(x-3)} = \frac{2(x-2)(x-3)}{(x-2)(x-3)}$$ lưu ý giá trị `2` nếu đứng một mình ko theo phân số như trên biểu thức nên nhân với mẫu và chia với mẫu. Bây giờ dựa trên biểu thức ta vừa quy đồng ta thực hiện đa nhân đa ở tử và lúc này khử mẫu đi, ta được $$\large(x^{2} - 9) + (x^{2} - 4) = (2x - 4)(x-3)$$ bây giờ tiếp tục ta rút gọn và thực hiện đa nhân đa ta được $$\large2x^{2} - 13 = 2x^{2} - 6x - 4x + 12$$ bây giờ ta thấy `-6x -4x = -6x + -4x = -10x` bây giờ ta chuyển vế nó sẽ đổi dấu thành `10x` bây giờ `13 + 12 = 25` ta có `10x = 25` suy ra $$\large\frac{25}{10} = \frac{5}{2}$$ vậy nghiệm là $$\large\frac{5}{2}$$
+
+**Vì sao lại là 10x = 25?**
