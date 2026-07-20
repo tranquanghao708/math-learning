@@ -24,7 +24,9 @@ Cho ví dụ 2: $$\large\frac{x+5}{x-3}+2 = \frac{2}{x-3}$$
 
 Bây giờ ta phải tìm điều kiện xác định là x $$\large\neq$$ 3 và dùng thêm một phân số cho giá trị `2` lấy 2 nhân cho mẫu số và chia cho mẫu số như sau $$\large\frac{2(x-3)}{x-3}$$. Bây giờ, nhưu thường ta khai triển và dùng đơn nhân đa ở tử, cái nào ko phải đơn nhân đa ta cứ việc hạ xuống và chuyển vế kết quả như sau `x+5 + (2x-6) - 2 = 0` đây là phương trình tích vậy ta tìm `3x = 3 = 3 : 3 = 1 (x=1)` vây nghiệm của phương trình là `x=1`
 
-**Vì sao lại thấy 3x trong khi phương trình đã có 3x đâu?:**
+**Vì sao lại thấy 3x trong khi phương trình đã có 3x đâu?:** Đây gọi là thu gọn hạng tử đồng dạng, ví dụ `x + 2x` thực chất là `1x + 2x` vì `x = 1.x vẫn là x` nên việc cộng lại như phép cộng chỉ khác là thêm x vào thôi `1x + 2x = 3x` vì sao, do có thể chuyển vế trong đề bài ở đây `x+5 + (2x-6) - 2 = 0` là phép cộng bây giờ ta có thể chuyển thành như sau `x+2x + (5-6) - 2 = 0` gọn lại thành `3x + (-1) - 2 = 0`
+
+**Vậy thì tại sao 3x = 3? trong khi có số 3 gì trong đó?:** điều này do chuyển vế ở đây ta có `(-1) -2 = -3` và `3x + -3 = 0` bây giờ ta thử chuyển vế sang phải `3x = 3` vì chuyển vế phải đổi dấu
 
 ## 2.Điều kiện phương trình có nghiệm và vô nghiệm
 
@@ -33,3 +35,9 @@ Bây giờ ta phải tìm điều kiện xác định là x $$\large\neq$$ 3 và
 - Phương trình vô nghiệm là nó vi phạm điều kiện xác định
 
 ## 3.quy đồng mẫu thức hai vế của phương trình rồi khử mẫu
+
+- Là làm việc với những phương trình ko cùng mẫu số:
+
+ví dụ 1: $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
+
+ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3. Bây giờ ta thấy, phương trình này ko cùng mẫu số với nhau, ta thực hiện quy đồng bằng cách 
