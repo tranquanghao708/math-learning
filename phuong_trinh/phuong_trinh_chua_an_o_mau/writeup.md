@@ -54,4 +54,4 @@ Bài 1 : $$\large\frac{x+5}{x-3}+2=\frac{2}{x-3}$$
 
 Bài 2 : $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
 
-- ta có điều kiện xác định là x $$\large\neq$$ 2 , x $$\large\neq$$ 3 bây giờ quy đồng $$\large\frac{(x+3)(x-3)}{(x-2)(x-3)}+\frac{(x+2)(x-2)}{(x-2)(x-3)}=\frac{2(x-2)(x-3)}{(x-2)(x-3)}$ bây giờ tính tử `(x+3)(x-3) + (x+2)(x-2) = 2(x-2)(x-3)` bây giờ dùng đa nhân đa trước ta có $$\large x^{2} - 9 + x^{2} - 4 = 2x-4(x-3)$$
+- ta có điều kiện xác định là x $$\large\neq$$ 2 , x $$\large\neq$$ 3 bây giờ quy đồng $$\large\frac{(x+3)(x-3)}{(x-2)(x-3)}+\frac{(x+2)(x-2)}{(x-2)(x-3)}=\frac{2(x-2)(x-3)}{(x-2)(x-3)}$$ bây giờ tính tử `(x+3)(x-3) + (x+2)(x-2) = 2(x-2)(x-3)` bây giờ dùng đa nhân đa trước ta có $$\large x^{2} - 9 + x^{2} - 4 = 2x-4(x-3)$$
