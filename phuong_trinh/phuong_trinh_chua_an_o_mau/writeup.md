@@ -30,7 +30,7 @@ Bây giờ ta phải tìm điều kiện xác định là x $$\large\neq$$ 3 và
 
 ## 2.Điều kiện phương trình có nghiệm và vô nghiệm
 
-- Phương trình có nghiệm là nó ko vi phạm điều kiện xác định x + n $$\large\neq$$ 0
+- Phương trình có nghiệm là nó ko vi phạm điều kiện xác định x + $$\large\mathbb{Z}$$ $$\large\neq$$ 0
 
 - Phương trình vô nghiệm là nó vi phạm điều kiện xác định
 
@@ -40,4 +40,4 @@ Bây giờ ta phải tìm điều kiện xác định là x $$\large\neq$$ 3 và
 
 ví dụ 1: $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
 
-ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3. Bây giờ ta thấy, phương trình này ko cùng mẫu số với nhau, ta thực hiện quy đồng bằng cách 
+ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3. Bây giờ ta thấy, phương trình này ko cùng mẫu số với nhau, ta thực hiện quy đồng bằng cách nhân cả tử lẫn mẫu ta được $$\large\frac{(x+3)(x-3)}{(x-2)(x+3)}+\frac{(x+2)(x-2)}{(x-2)(x+3)} = \frac{2(x+2)(x+3)}{(x+2)(x-3)}$$
