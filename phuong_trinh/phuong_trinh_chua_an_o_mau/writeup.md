@@ -48,14 +48,14 @@ ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3
 
 - Ở đây tập trung các bài tập về phương trình.
 
-Bài 1 : $$\large\frac{x+5}{x-3}+2=\frac{2}{x-3}$$
+**Bài 1 :** $$\large\frac{x+5}{x-3}+2=\frac{2}{x-3}$$
 
 - ta có điều kiện xác định là x $$\large\neq$$ 3, bây giờ nó đã có cùng mẫu số rồi nên ta ko quy đồng nhưng cần phải chuẩn hóa giá trị 2 ta có $$\large\frac{x+5}{x-3}+\frac{2(x-3)}{x-3}=\frac{2}{x-3}$$ , giờ tính tử `x+5 + 2(x-3) = 2` ta thực hiện đơn nhân đa ta có `x+5 + 2x - 6 = 2` chuyển vế `x+5` sang vị trí `2x` lưu ý chuyển vế đổi dấu `2x - x+5 -6 = 2` bây giờ ta có `5 + (-6) = -1` vậy `2x - 1x` (ghi 1 cho dễ nhìn), bây giờ ta có `1x = 1.1 = 1` vậy `x = 1` là nghiệm của phương trình
 
-Bài 2 : $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
+**Bài 2 :** $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
 
 - ta có điều kiện xác định là x $$\large\neq$$ 2 , x $$\large\neq$$ 3 bây giờ quy đồng $$\large\frac{(x+3)(x-3)}{(x-2)(x-3)}+\frac{(x+2)(x-2)}{(x-2)(x-3)}=\frac{2(x-2)(x-3)}{(x-2)(x-3)}$$ bây giờ tính tử `(x+3)(x-3) + (x+2)(x-2) = 2(x-2)(x-3)` bây giờ dùng đa nhân đa trước ta có $$\large x^{2} - 9 + x^{2} - 4 = (2x-4)(x-3)$$ bây giờ ta rút gọn lại và dùng đa nhân đa ta có $$\large 2x^{2}-13 = 2x^{2} - 6x - 4x + 12$$ ta tiến hành rút gọn lại thành $$\large2x^{2}-13 = 2x^{2} - 10x + 12$$ bây giờ ta thấy $$\large2x^{2}$$ có hai cái nhưng khi nó trừ đi sẽ luôn là 0 vậy ta bỏ nó, và bây giờ như lý thuyết với C ta muốn cô lập 10x để giữ trọn vẹn kết quả của x tránh cộng gây sai lệch ta chuyển vế 12 sang trái thành `-13 + -12 = 10x` ta có `-25 = -10x` giờ ta nhân cả hai vế vơi `-1` và chia cả hai vế cho `10` kết quả là $$\large\frac{5}{2}$$ vậy đây là nghiệm của phương trình
 
-Bài 3 : $$\large\frac{x+2}{x-2}-\frac{x-2}{x+2}=\frac{16}{x^{2}-4}$$
+**Bài 3 :** $$\large\frac{x+2}{x-2}-\frac{x-2}{x+2}=\frac{16}{x^{2}-4}$$
 
-- Ta có điều kiện xác định x $$\large\pm2$$ bây giờ tiến hành quy đồng
+- Ta có điều kiện xác định x $$\large\neq\pm2$$ bây giờ tiến hành quy đồng $$\large\frac{(x+2)^{2}}{(x-2)(x+2)}-\frac{(x-2)^{2}}{(x-2)(x+2)} = \frac{16}{(x-2)(x+2)}$$ bây giờ tính tử ta dùng hằng đẳng thức $$\large$$
