@@ -40,4 +40,4 @@ Bây giờ ta phải tìm điều kiện xác định là x $$\large\neq$$ 3 và
 
 ví dụ 1: $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
 
-ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3. Bây giờ ta thấy, phương trình này ko cùng mẫu số với nhau, ta thực hiện quy đồng bằng cách nhân cả tử lẫn mẫu ta được $$\large\frac{(x+3)(x-3)}{(x-2)(x+3)}+\frac{(x+2)(x-2)}{(x-2)(x+3)} = \frac{2(x+2)(x+3)}{(x+2)(x-3)}$$
+ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3. Bây giờ ta thấy, phương trình này ko cùng mẫu số với nhau, ta thực hiện quy đồng bằng cách nhân cả tử lẫn mẫu ta được $$\large\frac{(x+3)(x-3)}{(x-2)(x-3)}+\frac{(x+2)(x-2)}{(x-2)(x-3)} = \frac{2(x-2)(x-3)}{(x-2)(x-3)}$$ lưu ý giá trị `2` nếu đứng một mình ko theo phân số như trên biểu thức nên nhân với mẫu và chia với mẫu. Bây giờ dựa trên biểu thức ta vừa quy đồng ta thực hiện đa nhân đa ở tử và lúc này khử mẫu đi, ta được $$\large(x^{2} - 9) + (x^{2} - 4) = (2x - 4)(x-3)$$
