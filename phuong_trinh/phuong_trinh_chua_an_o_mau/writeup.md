@@ -30,7 +30,7 @@ Bây giờ ta phải tìm điều kiện xác định là x $$\large\neq$$ 3 và
 
 ## 2.Điều kiện phương trình có nghiệm và vô nghiệm
 
-- Phương trình có nghiệm là nó ko vi phạm điều kiện xác định x + $$\large\mathbb{Z}$$ $$\large\neq$$ 0
+- Phương trình có nghiệm là nó ko vi phạm điều kiện xác định x + `<mẫu cụ thể>` $$\large\neq$$ 0
 
 - Phương trình vô nghiệm là nó vi phạm điều kiện xác định
 
@@ -43,3 +43,15 @@ ví dụ 1: $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
 ta có điều kiện xác định là x $$\large\neq$$ 2 và x $$\large\neq$$ 3. Bây giờ ta thấy, phương trình này ko cùng mẫu số với nhau, ta thực hiện quy đồng bằng cách nhân cả tử lẫn mẫu ta được $$\large\frac{(x+3)(x-3)}{(x-2)(x-3)}+\frac{(x+2)(x-2)}{(x-2)(x-3)} = \frac{2(x-2)(x-3)}{(x-2)(x-3)}$$ lưu ý giá trị `2` nếu đứng một mình ko theo phân số như trên biểu thức nên nhân với mẫu và chia với mẫu. Bây giờ dựa trên biểu thức ta vừa quy đồng ta thực hiện đa nhân đa ở tử và lúc này khử mẫu đi, ta được $$\large(x^{2} - 9) + (x^{2} - 4) = (2x - 4)(x-3)$$ bây giờ tiếp tục ta rút gọn và thực hiện đa nhân đa ta được $$\large2x^{2} - 13 = 2x^{2} - 6x - 4x + 12$$ bây giờ ta thấy `-6x -4x = -6x + -4x = -10x` bây giờ ta chuyển vế nó sẽ đổi dấu thành `10x` bây giờ `13 + 12 = 25` ta có `10x = 25` suy ra $$\large\frac{25}{10} = \frac{5}{2}$$ vậy nghiệm là $$\large\frac{5}{2}$$
 
 **Vì sao lại là 10x = 25?:** Trong C, khi gán x vào y là `y = x + 12` bây giờ ta muốn lấy lại x thì dùng `y = x - 12` lúc này y chính là giá tị của x ban đầu ko ai đi làm `y = y - 88` thì áp vào cái này cũng vậy. Bạn thấy khi gán values vào x nhưng nó lại tiếp tục cộng với 12 sẽ ra giá trị như nhau à? không, nó là giá trị khác nhau nên về cơ bản ta cần cô lập x để giữ nguyên giá trị khi gán values vào x bằng cách chuyển vế 12 qua cho 13 và thành `-25` sau này khi chuyển vế hay nhân với `-1` sẽ thành 25 như trên. Đây gọi là cô lập x, ko phải vì thích mà vì muốn giữ nguyên và ngăn nó cộng tiếp làm sai lệch kết quả
+
+## 4.Giải phương trình vừa tìm được 
+
+- Ở đây tập trung các bài tập về phương trình.
+
+Bài 1 : $$\large\frac{x+5}{x-3}+2=\frac{2}{x-3}$$
+
+- ta có điều kiện xác định là x $$\large\neq$$ 3, bây giờ nó đã có cùng mẫu số rồi nên ta ko quy đồng nhưng cần phải chuẩn hóa giá trị 2 ta có $$\large\frac{x+5}{x-3}+\frac{2(x-3)}{x-3}=\frac{2}{x-3}$$ , giờ tính tử `x+5 + 2(x-3) = 2` ta thực hiện đơn nhân đa ta có `x+5 + 2x - 6 = 2` chuyển vế `x+5` sang vị trí `2x` lưu ý chuyển vế đổi dấu `2x - x+5 -6 = 2` bây giờ ta có `5 + (-6) = -1` vậy `2x - 1x` (ghi 1 cho dễ nhìn), bây giờ ta có `1x = 1.1 = 1` vậy `x = 1` là nghiệm của phương trình
+
+Bài 2 : $$\large\frac{x+3}{x-2}+\frac{x+2}{x-3}=2$$
+
+- ta có điều kiện xác định là x $$\large\neq$$ 2 , x $$\large\neq$$ 3 bây giờ quy đồng $$\large\frac{(x+3)(x-3)}{(x-2)(x-3)}+\frac{(x+2)(x-2)}{(x-2)(x-3)}=\frac{2(x-2)(x-3)}{(x-2)(x-3)}$ bây giờ tính tử `(x+3)(x-3) + (x+2)(x-2) = 2(x-2)(x-3)` bây giờ dùng đa nhân đa trước ta có $$\large x^{2} - 9 + x^{2} - 4 = 2x-4(x-3)$$
