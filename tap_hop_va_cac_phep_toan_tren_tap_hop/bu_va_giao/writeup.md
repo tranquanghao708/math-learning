@@ -54,4 +54,10 @@ ví dụ vơi hiệu của hai tập hợp $$\large(-\infty;\sqrt{2}] \ [-1;+\in
 
 ta thấy vùng bên ngoài ở range là từ $$\large-\infty$$ đến `-1` đó là kết quả vậy : $$\large(-\infty;-1)$$
 
-Còn ví dụ với phần bù, ta có : $$\large C_{\mathbb{R}}(-\infty;2)$$, ta có kết quả như sau : $$\large C_{\mathbb{R}}(-\infty;2) = [2;+\infty)$$. Vì sao lại như thế, vì âm vô hạn đã chưa tất cả số nhỏ hơn 2 kể cả số thực dương, khi lấy phần bù trong $$\large\mathbb{R}$$ ta chỉ lấy những số ko thuộc khoảng này những số ko thuộc là số 2 và lớn hơn 2. Vì sao lại là dấu `[`, vì dấu `[` là lớn hơn hoặc bằng, nên kết quả thành `[2.. = 2<=..`
+Còn ví dụ với phần bù, ta có : $$\large C_{\mathbb{R}}(-\infty;2)$$, ta có kết quả như sau : $$\large C_{\mathbb{R}}(-\infty;2) = [2;+\infty)$$. Vì sao lại như thế, vì âm vô hạn đã chưa tất cả số nhỏ hơn 2 kể cả số thực dương, khi lấy phần bù trong $$\large\mathbb{R}$$ ta chỉ lấy những số ko thuộc khoảng này những số ko thuộc là số 2 và lớn hơn 2. Vì sao lại là dấu `[`, vì dấu `[` là nhỏ hơn hoặc bằng, nên kết quả thành `[2.. = 2<=..`
+
+## 4.Các ký hiệu ở các tập ( ) và [ ]
+
+ký hiệu `[ ]` thuộc dạng nhỏ hơn hoặc bằng ví dụ `[a; b) = a <= x < b`, `[a; b] = a <= x <= b`
+
+ký hiệu `( )` thuộc dạng nhỏ hơn nhưng ko bằng ví dụ `(a ; b) = a < x < b`
