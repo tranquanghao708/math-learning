@@ -13,6 +13,6 @@
 
 ## 1.Hợp
 
-- Tập hợp các phần tử thuộc tập hợp A hoặc thuộc B ký hiệu là $$\large A\cupB$$. Ví dụ khi ta có $$(\large-\infty;1)\cup(-2;2)$$ trước tiên phải vẽ cái đã :
+- Tập hợp các phần tử thuộc tập hợp A hoặc thuộc B ký hiệu là $$\large A\cup B$$. Ví dụ khi ta có $$(\large-\infty;1)\cup(-2;2)$$ trước tiên phải vẽ cái đã :
 
-$$\Large==============================1)--/-/-/-/-/-/-/-/-/-/--/-/-->$$
+------------------------------1)--/-/-/-/-/-/-/-/-/-/--/-/-->
