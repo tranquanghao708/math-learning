@@ -61,3 +61,35 @@ $$\large\begin{cases}
     y = 9 - 4\left(\frac{21}{11}\right) \quad \text{(lúc này thế x vào để đi tìm y)} \\
     x = \frac{21}{11} \quad \text{(khi nó nhân thì dùng phép chia để đi tìm x, rút gọn 63/33 = 21/11)}
 \end{cases}$$
+
+**Ví dụ 2:** Cho phương trình hai ẩn như sau
+
+$$\large\begin{cases}
+	27x + 9y = 903 \\
+	41y - x = 1006
+\end{cases}$$
+
+$$\large\begin{cases}
+	27(1006+41y) + 9y = 903 \\
+	x = 1006 + 41y
+\end{cases}$$
+
+$$\large\begin{cases}
+	27162 + 1107y + 9y = 903 \\
+	x = 1006 + 41y
+\end{cases}$$
+
+$$\large\begin{cases}
+	27162 + 1116y = 903 \\
+	x = 1006 + 41y
+\end{cases}$$
+
+$$\large\begin{cases}
+	-1116y = 26259 \\
+	x = 1006 + 41y
+\end{cases}$$
+
+$$\large\begin{cases}
+	y = \frac{26259}{-1116}\\
+	x = 1006 + 41(\frac{26259}{-1116})
+\end{cases}$$
