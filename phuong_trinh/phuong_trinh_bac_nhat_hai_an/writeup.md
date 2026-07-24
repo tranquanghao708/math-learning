@@ -24,10 +24,15 @@
 
 ## 2.Điều kiện nhận biết phương trình bậc nhất hai ẩn
 
-- Phương trình này nó có dạng sau $$\large\x + y = 9$$, $$\large\9y + x + x= 9$$ .. hễ là ta thấy các ký hiệu của nó là `x`, `y` là hai nghiệm. Rõ hơn, mỗi character ở một biểu thức tượng trưng cho mỗi nghiệm riêng cho chính character đó chẳng qua chúng ta dùng những tên đó biểu thị sự ngắn gọn, có thể dùng bất cứ tên nào ví dụ thay `x` bằng `nghiem` hay gì cũng được nhưng về bản chất nó là ẩn, mỗi tên khác nhau có mỗi nghiệm cho riêng nó, và mỗi tên cùng giống nhau nó sẽ là cùng một nghiệm
+- Phương trình này nó có dạng sau $$\large x + y = 9$$, $$\large9y + x + x= 9$$ .. hễ là ta thấy các ký hiệu của nó là `x`, `y` là hai nghiệm. Rõ hơn, mỗi character ở một biểu thức tượng trưng cho mỗi nghiệm riêng cho chính character đó chẳng qua chúng ta dùng những tên đó biểu thị sự ngắn gọn, có thể dùng bất cứ tên nào ví dụ thay `x` bằng `nghiem` hay gì cũng được nhưng về bản chất nó là ẩn, mỗi tên khác nhau có mỗi nghiệm cho riêng nó, và mỗi tên cùng giống nhau nó sẽ là cùng một nghiệm
 
 ## 3.Giải phương trình bậc nhất hai ẩn
 
 #### 3.1.Phương pháp thế
 
-- Cách này dùng để thế những các phép tính riêng cho y hay x vào 
+- Phương pháp thế dùng để biểu diễn một ẩn theo ẩn còn lại, sau đó thay (thế) biểu thức đó vào phương trình kia nhằm biến hệ hai phương trình hai ẩn thành một phương trình chỉ còn một ẩn. **Ví dụ** :
+
+$$\large\begin{cases}
+	4x + y = 9 \\
+	9y + 3x = 18
+\end{cases}$$
