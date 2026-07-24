@@ -33,31 +33,31 @@
 - Phương pháp thế dùng để biểu diễn một ẩn theo ẩn còn lại, sau đó thay (thế) biểu thức đó vào phương trình kia nhằm biến hệ hai phương trình hai ẩn thành một phương trình chỉ còn một ẩn. **Ví dụ** :
 
 $$\large\begin{cases}
-	4x + y = 9 \\
-	9y + 3x = 18
+    4x + y = 9 \\
+    9y + 3x = 18
 \end{cases}$$
 
 $$\large\begin{cases}
-	y = 9 - 4x \\
-	9(9-4x) + 3x = 18 \text{(Lúc này 9(9-4x) là dùng phương pháp thế, nghĩa là thay y bằng cái ở trên vào như gán biến trong C)}
+    y = 9 - 4x \\
+    9(9-4x) + 3x = 18 \quad \text{(Lúc này 9(9-4x) là dùng phương pháp thế, nghĩa là thay y bằng cái ở trên vào như gán biến trong C)}
 \end{cases}$$
 
 $$\large\begin{cases}
-	y = 9 - 4x \\
-	81 - 36x + 3x = 18 \text{(dùng đơn nhân đa cho 9(9-4x))}
+    y = 9 - 4x \\
+    81 - 36x + 3x = 18 \quad \text{(dùng đơn nhân đa cho 9(9-4x))}
 \end{cases}$$
 
 $$\large\begin{cases}
-	y = 9 - 4x \\
-	58x = 18 \text{(rút gọn sau đó dùng quy tắc phương trình văn bản)}
+    y = 9 - 4x \\
+    81 - 33x = 18 \quad \text{(rút gọn -36x + 3x = -33x)}
 \end{cases}$$
 
 $$\large\begin{cases}
-	y = 9 - 4x \\
-	x = \frac{18}{58} \text{(khi nó nhân thì việc dùng phép chia để đi tìm x)}
+    y = 9 - 4x \\
+    33x = 63 \quad \text{(chuyển vế: 81 - 18 = 63)}
 \end{cases}$$
 
 $$\large\begin{cases}
-	y = 9 - 4\frac{18}{58} \text{(lúc này thế vào x để đi tìm y)} \\
-	x = \frac{18}{58}
+    y = 9 - 4\left(\frac{21}{11}\right) \quad \text{(lúc này thế x vào để đi tìm y)} \\
+    x = \frac{21}{11} \quad \text{(khi nó nhân thì dùng phép chia để đi tìm x, rút gọn 63/33 = 21/11)}
 \end{cases}$$
