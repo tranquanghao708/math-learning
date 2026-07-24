@@ -37,27 +37,27 @@ $$\large\begin{cases}
 	9y + 3x = 18
 \end{cases}$$
 
-$$\begin{cases}
+$$\large\begin{cases}
 	y = 9 - 4x \\
-	9(9-4x) + 3x = 18 \mathrm{(Lúc này 9(9-4x) là dùng phương pháp thế, nghĩa là thay y bằng cái ở trên vào như gán biến trong C)}
+	9(9-4x) + 3x = 18 \text{(Lúc này 9(9-4x) là dùng phương pháp thế, nghĩa là thay y bằng cái ở trên vào như gán biến trong C)}
 \end{cases}$$
 
-$$\begin{cases}
+$$\large\begin{cases}
 	y = 9 - 4x \\
-	81 - 36x + 3x = 18 \mathrm{(dùng đơn nhân đa cho 9(9-4x))}
+	81 - 36x + 3x = 18 \text{(dùng đơn nhân đa cho 9(9-4x))}
 \end{cases}$$
 
-$$\begin{cases}
+$$\large\begin{cases}
 	y = 9 - 4x \\
-	58x = 18 \mathrm{(rút gọn sau đó dùng quy tắc phương trình văn bản)}
+	58x = 18 \text{(rút gọn sau đó dùng quy tắc phương trình văn bản)}
 \end{cases}$$
 
-$$\begin{cases}
+$$\large\begin{cases}
 	y = 9 - 4x \\
-	x = \frac{18}{58} \mathrm{(khi nó nhân thì việc dùng phép chia để đi tìm x)}
+	x = \frac{18}{58} \text{(khi nó nhân thì việc dùng phép chia để đi tìm x)}
 \end{cases}$$
 
-$$\begin{cases}
-	y = 9 - 4\frac{18}{58} \mathrm{(lúc này thế vào x để đi tìm y)} \\
+$$\large\begin{cases}
+	y = 9 - 4\frac{18}{58} \text{(lúc này thế vào x để đi tìm y)} \\
 	x = \frac{18}{58}
 \end{cases}$$
