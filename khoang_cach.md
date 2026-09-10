@@ -95,7 +95,32 @@ $$\Large2\xrightarrow{+3}5\xrightarrow{+3}8\xrightarrow{+3}11$$
 
 </div>
 
-Ta luôn di chuyển sang phải
+Ta luôn di chuyển sang phải, nhưng ta thấy cách nhau với `+3` khoảng cách giữa các điểm luôn bằng nhau. Đó chính là ý nghĩa của cách đều. Cho **ví dụ** khác :
+
+<div align="center">
+
+$$\Large-10, -7, -4, -1, 2, 5, \ldots$$
+
+</div>
+
+Mặc dù theo trực giác thấy các số ban đầu là số âm, nhưng công sai vẫn là dương. Ta xét:
+
+<div align="center">
+
+$$\Large(-7) - (-10) = 3$$
+
+$$\Large(-4) - (-7)  3$$
+
+$$\Large(-1) - (-4) = 3$$
+
+$$\Large(2) - (-1) = 3$$
+
+$$\Large5 - 2 = 3$$
+
+</div>
+
+> [IMPORTANT]
+> Số hạng có thể âm, nhưng công sai có thể là dương
 
 ### 2.2.Dãy số không cách đều (Khoảng cách thay đổi theo quy luật)
 
