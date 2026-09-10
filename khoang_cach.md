@@ -87,6 +87,16 @@ $$\Large11+3=14$$
 
 Tức là : $$\large a_{n+1} = a_{n} + d$$, với $$\large d=3$$ ta có $$\large a_{n+1} = a_{n} + 3$$
 
+- **Tại sao nó lại gọi là dương? :** vì $$\large d=3>0$$, nên mỗi bước làm giá trị tăng lên, trên trục số:
+
+<div align="center">
+
+$$\Large2\rightarrow{+3}5\rightarrow{+3}8\rightarrow{+3}11$$
+
+</div>
+
+Ta luôn di chuyển sang phải
+
 ### 2.2.Dãy số không cách đều (Khoảng cách thay đổi theo quy luật)
 
 Đây là dãy số mà khoảng cách giữa các số không cố định, nhưng chính bản thân các khoảng cách đó lại tạo thành một quy luật toán học (chẳng hạn như dãy số phụ, dãy khoảng cách tăng dần, hoặc khoảng cách nhân đôi).
