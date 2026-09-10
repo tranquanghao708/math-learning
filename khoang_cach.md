@@ -91,7 +91,7 @@ Tức là : $$\large a_{n+1} = a_{n} + d$$, với $$\large d=3$$ ta có $$\large
 
 <div align="center">
 
-$$\Large2\rightarrow{+3}5\rightarrow{+3}8\rightarrow{+3}11$$
+$$\Large2\xrightarrow{+3}5\xrightarrow{+3}8\xrightarrow{+3}11$$
 
 </div>
 
