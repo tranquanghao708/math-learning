@@ -119,7 +119,7 @@ $$\Large5 - 2 = 3$$
 
 </div>
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > Số hạng có thể âm, nhưng công sai có thể là dương
 
 ### 2.2.Dãy số không cách đều (Khoảng cách thay đổi theo quy luật)
