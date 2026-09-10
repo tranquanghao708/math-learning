@@ -53,7 +53,20 @@ Số đằng sau trừ đi số liền trước với điều kiện số liền
 
 #### 2.1.1.Công sai dương
 
+Đây là trường hợp nếu $$\large d>0$$, nó có nghĩa là mỗi lần đi sang số hạng tiếp theo, ta cộng thêm một lượng dương. **Ví dụ** cho dãy số $\large2, 5, 8, 11, 14, \dots$, ta tính :
 
+<div align="center">
+
+$$\Large5-2=3$$
+
+$$\Large8-5=3$$
+
+$$\Large11-8=3$$
+
+$$\Large14-11=3$$
+
+$$\Large\Rightarrow\text{ Vậy:} d = 3$$
+</div>
 
 ### 2.2.Dãy số không cách đều (Khoảng cách thay đổi theo quy luật)
 
