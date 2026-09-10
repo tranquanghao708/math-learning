@@ -35,7 +35,13 @@ khoảng cách của một dãy số (hay còn gọi là công sai đối với 
 
 ### 2.1.Dãy số cách đều (cấp số cộng)
 
-Đây là dãy số mà khoảng cách giữa hai số hạng liên tiếp luôn là một hằng số không đổi. Công thức tìm khoảng cách ($$\large d$$) :
+Đây là dãy số mà khoảng cách giữa hai số hạng liên tiếp luôn là một hằng số không đổi, trước hết ta cần phải tách hai khai niệm giữa dãy số và cấp số cộng nhưu sau :
+
+- **Dãy số:** một danh sách các số được sắp theo thứ tự.
+
+- **Cấp số cộng (CSC):** một dãy số đặc biệt, trong đó hiệu giữa hai số liên tiếp luôn giống nhau.
+
+Công thức tìm khoảng cách ($$\large d$$) :
 
 <div align="center">
 
@@ -44,6 +50,10 @@ $$\Large d=a_{n+1}-a_{n}$$
 </div>
 
 Số đằng sau trừ đi số liền trước với điều kiện số liền trước phải lớn hơn số đằng sau theo ($$\large x_{0} < x_{1} < x_{2}$$) .**Ví dụ:** Cho dãy số: $\large3, 7, 11, 15, 19, \dots$ Khoảng cách giữa các số: $\large7 - 3 = 4$, $11 - 7 = 4$, $\large15 - 11 = 4$.Vậy khoảng cách $\large d = 4$.
+
+#### 2.1.1.Công sai dương
+
+
 
 ### 2.2.Dãy số không cách đều (Khoảng cách thay đổi theo quy luật)
 
