@@ -65,8 +65,27 @@ $$\Large11-8=3$$
 
 $$\Large14-11=3$$
 
-$$\Large\Rightarrow\text{ Vậy:} d = 3$$
+$$\Large\Rightarrow\text{ Vậy: } d = 3$$
+
 </div>
+
+Chúng ta có thể tính ngược lại cả dãy số với phép cộng như sau:
+
+<div align="center">
+
+$$\Large2$$
+
+$$\Large2+3=5$$
+
+$$\Large5+3=8$$
+
+$$\Large8+3=11$$
+
+$$\Large11+3=14$$
+
+</div>
+
+Tức là : $$\large a_{n+1} = a_{n} + d$$, với $$\large d=3$$ ta có $$\large a_{n+1} = a_{n} + 3$$
 
 ### 2.2.Dãy số không cách đều (Khoảng cách thay đổi theo quy luật)
 
