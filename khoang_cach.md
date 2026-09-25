@@ -141,7 +141,7 @@ $$\Large5 - 2 = 3$$
 
 <td width="55%" valign="top">
 
-Ở trong lớp ta có một bảng đựng các điện thoại theo số thứ tự của các học sinh trong lớp 10A5 như sau.
+Ở trong lớp ta có một bảng đựng các điện thoại theo số thứ tự của các học sinh trong lớp 10A5 như trong ảnh. Ta thấy, có 42 ô trống để đựng điện thoại trong một bảng túi bự được treo trên thanh cửa sổ như trong ảnh. Ta cũng biết các ô ngang nó cách nhau với công sai là 1, nghĩa là cho dãy số của một hàng ngang trên cùng lần lượt là `1,2,3,4,5,6` và nó cộng một để có thể tới được số kế tiếp, bây giờ dựa vào kiến thức công sai dương, hãy cho biết công sai của hàng dọc của các dãy số `1,7,13,...`, `2,8,14,...` cho tới hết 6 cột. Cho biết kết quả công sai của hàng chéo, ta biết hàng chéo ở dãy bảng có dãy số và gọi các dãy số thuộc tập hợp A và B là `A = 1,8,15,22,29,36` và `B = 6,11,16,21,26,31` ?
 
 </td>
 </table>
