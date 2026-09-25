@@ -134,7 +134,7 @@ $$\Large5 - 2 = 3$$
 Ở trong lớp ta có một bảng đựng các điện thoại theo số thứ tự của các học sinh trong lớp 10A5 như sau.
 
 <p align="center">
-	<img src="image_khoangcach/image0.jpg" width="40">
+	<img src="image_khoangcach/image0.jpg" width="400">
 </p>
 
 
