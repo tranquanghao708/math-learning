@@ -125,9 +125,6 @@ $$\Large5 - 2 = 3$$
 
 <details>
 	<summary><b>[Chi tiết]</b> Thực chiến với số thứ tự của bảng hộp điện thoại</summary>
-<table>
-<tr>
-<td>
 
 ---
 
@@ -150,11 +147,9 @@ $$\Large5 - 2 = 3$$
 </table>
 
 <sub>--Đã hết phần giải thích--</sub>
+
 ---
 
-</td>
-</tr>
-</table>
 </details>
 
 ### 2.2.Dãy số không cách đều (Khoảng cách thay đổi theo quy luật)
