@@ -3,9 +3,9 @@
 **mục lục**
 
 
-- 1.Công sai là gì?
+- [1.Công sai là gì?](#1công-sai-là-gì)
 
-- 2.Cách nhận biết một cấp số cộng
+- [2.Cách nhận biết một cấp số cộng](#2cách-nhận-biết-một-cấp-số-cộng)
 
 	- 2.1.Dãy số cách đều (cấp số cộng)
 
@@ -121,6 +121,30 @@ $$\Large5 - 2 = 3$$
 
 > [!IMPORTANT]
 > Số hạng có thể âm, nhưng công sai có thể là dương
+
+
+<details>
+	<summary><b>[Chi tiết]</b> Thực chiến với số thứ tự của bảng hộp điện thoại</summary>
+<table>
+<tr>
+<td>
+
+---
+
+Ở trong lớp ta có một bảng đựng các điện thoại theo số thứ tự của các học sinh trong lớp 10A5 như sau.
+
+<p align="center">
+	<img src="image_khoangcach/image0.png">
+</p>
+
+
+<sub>--Đã hết phần giải thích--</sub>
+---
+
+</td>
+</tr>
+</table>
+</details>
 
 ### 2.2.Dãy số không cách đều (Khoảng cách thay đổi theo quy luật)
 
