@@ -146,6 +146,8 @@ $$\Large5 - 2 = 3$$
 </td>
 </table>
 
+Dựa vào trong đề bài, đầu tiên ta cần tính cột dọc trước. Ở đây ta lấy `7-1=6, 13-7=6` suy ra công sai của tất cả cột dọc đều là 6. Còn về hai tập hợp A và B, đầu tiên A ta xét `8-1=7, 15-8=7` suy ra cột chéo A có công sai là 7, còn cột chéo B ta xét `11-6=5, 16-11=5` suy ra cột chéo B có công sai là 5
+
 <sub>--Đã hết phần giải thích--</sub>
 
 ---
