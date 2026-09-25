@@ -135,17 +135,19 @@ $$\Large5 - 2 = 3$$
 <tr>
 <td>
 
-Ở trong lớp ta có một bảng đựng các điện thoại theo số thứ tự của các học sinh trong lớp 10A5 như sau.
-
-</td>
-
-<td>
 <p align="center">
 	<kbd>
 	<img src="image_khoangcach/image0.jpg" width="400">
 	</kbd>
 </p>
 </td>
+
+<td>
+
+Ở trong lớp ta có một bảng đựng các điện thoại theo số thứ tự của các học sinh trong lớp 10A5 như sau.
+
+</td>
+</table>
 
 <sub>--Đã hết phần giải thích--</sub>
 ---
