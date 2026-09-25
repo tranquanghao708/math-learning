@@ -133,16 +133,16 @@ $$\Large5 - 2 = 3$$
 
 <table>
 <tr>
-<td>
+<td width="45%" valign="top">
 
 <p align="center">
 	<kbd>
-	<img src="image_khoangcach/image0.jpg" width="400">
+	<img src="image_khoangcach/image0.jpg" width="100%">
 	</kbd>
 </p>
 </td>
 
-<td>
+<td width="55%" valign="top">
 
 Ở trong lớp ta có một bảng đựng các điện thoại theo số thứ tự của các học sinh trong lớp 10A5 như sau.
 
