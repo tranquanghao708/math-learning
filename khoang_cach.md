@@ -137,7 +137,7 @@ $$\Large5 - 2 = 3$$
 
 <p align="center">
 	<kbd>
-	<img src="image_khoangcach/image0.jpg" width="100%">
+	<img src="image_khoangcach/image0.jpg" width="400">
 	</kbd>
 </p>
 </td>
