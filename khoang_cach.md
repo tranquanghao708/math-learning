@@ -131,12 +131,21 @@ $$\Large5 - 2 = 3$$
 
 ---
 
+<table>
+<tr>
+<td>
+
 Ở trong lớp ta có một bảng đựng các điện thoại theo số thứ tự của các học sinh trong lớp 10A5 như sau.
 
-<p align="center">
-	<img src="image_khoangcach/image0.jpg" width="400">
-</p>
+</td>
 
+<td>
+<p align="center">
+	<kbd>
+	<img src="image_khoangcach/image0.jpg" width="400">
+	</kbd>
+</p>
+</td>
 
 <sub>--Đã hết phần giải thích--</sub>
 ---
